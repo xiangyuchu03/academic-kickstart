@@ -67,6 +67,7 @@ email: "jhwu@mae.cuhk.edu.hk"
 # - Visitors
 # ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently a third-year Ph.D. student supervised by Prof. Yun-hui Liu in the robotics institute (CURI), The chinese University of Hong Kong. 
+Now, I am working with Prof. Iulian Iordachita and Prof. Russell H. Taylor as a visiting student at Johns Hopkins University in the Laboratory for Computational Sensing & Robotics. 
+Prior to my Ph.D studies, I received B.E. degree at Chongqing University, China.
+My research interests are the developments of robotic surgical components and systems including variable stiffness joint, robot-assisted uterus manipulator, steady hand eye robot and nasal robot, as well as the corresponding force and vision-based control algorithms, with emphasis on both scientific and engineering aspects.
