@@ -1,13 +1,13 @@
 ---
-title: "Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) For Sinus Surgery: Design, Control and Evaluation"
-date: 2019-09-05
-publishDate: 2019-09-05T15:35:42.116621Z
-authors: ["F. Zhong", "P. Li", "J. Shi", "Z. Wang", "J. Wu", "J. YK. Chan", "N. Leung", "I. Leung", "M. CF. Tong", "Y. Liu"]
+title: "Design and Validation of a Novel Leaf Spring Based Variable Stiffness Joint with Reconfigurability"
+date: 2020-05-22
+publishDate: 2020-05-22T15:35:42.116621Z
+authors: ["**Jiahao Wu**", " Zerui wang", " Wei Chen", " Yaqing Wang", " Yunhui Liu"]
 publication_types: ["2"]
-abstract: ""
+abstract: "*2020 IEEE Transactions on Mechatronics (TMECH)*"
 featured: false
-publication: "*2019 IEEE Transactions on Biomedical Engineering (TBME)*"
-tags: []
+publication: "*2020 IEEE Transactions on Mechatronics (TMECH)*"
+tags: ["*2020 IEEE Transactions on Mechatronics (TMECH)*"]
 url_pdf: ""
-doi: ""
+doi: "10.1109/TMECH.2020.2995533"
 ---
