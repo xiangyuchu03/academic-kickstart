@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jiahao Wu (Mark)
+title: Jiahao Wu (Mark)
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: CURI, The Chinese University of Hong Kong
-  url: ""
+- name: Robotics Institute, The Chinese University of Hong Kong
+  url: "http://ri.cuhk.edu.hk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am currently a third-year Ph.D. student supervised by Prof. Yun-hui Liu in the robotics institute (CURI), The chinese University of Hong Kong. 
@@ -62,12 +62,11 @@ email: "jhwu@mae.cuhk.edu.hk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
-# ---
+user_groups:
+- Researchers
+- Visitors
+---
 
-I am currently a third-year Ph.D. student supervised by Prof. Yun-hui Liu in the robotics institute (CURI), The chinese University of Hong Kong. 
-Now, I am working with Prof. Iulian Iordachita and Prof. Russell H. Taylor as a visiting student at Johns Hopkins University in the Laboratory for Computational Sensing & Robotics. 
-Prior to my Ph.D studies, I received B.E. degree at Chongqing University, China.
+I am currently a third-year Ph.D. student supervised by Prof. Yun-hui Liu in the robotics institute (CURI), The chinese University of Hong Kong. Now, I am working with Prof. Iulian Iordachita and Prof. Russell H. Taylor as a visiting student at Johns Hopkins University in the Laboratory for Computational Sensing & Robotics. Prior to my Ph.D studies, I received B.E. degree at Chongqing University, China.
+
 My research interests are the developments of robotic surgical components and systems including variable stiffness joint, robot-assisted uterus manipulator, steady hand eye robot and nasal robot, as well as the corresponding force and vision-based control algorithms, with emphasis on both scientific and engineering aspects.
