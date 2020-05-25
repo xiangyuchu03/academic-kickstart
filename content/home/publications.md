@@ -26,9 +26,9 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = "Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) For Sinus Surgery: Design, Control and Evaluation"
-    publication_type = "IEEE Transactions on Biomedical Engineering (TBME)"
-    author = "Fangxun Zhong, Peng Li, Jiadong Shi, Zerui Wang, Jiahao Wu, Jason YK Chan, Natalie Leung, Iris Leung, Michael CF Tong, Yun-Hui Liu"
+    category = ""
+    publication_type = ""
+    author = ""
     exclude_featured = false
   
 [design]
