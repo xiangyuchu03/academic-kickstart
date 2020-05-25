@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Jiahao Wu      PhD Candidate
+role: **Jiahao Wu**, PhD Candidate
 
 # Organizations/Affiliations
 organizations:
