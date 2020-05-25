@@ -11,5 +11,3 @@ tags: ["*2020 IEEE Transactions on Biomedical Engineering (TBME)*"]
 url_pdf: ""
 doi: "10.1109/TBME.2020.2968488"
 ---
-
-Congying Sui ; Jiahao Wu ; Zerui Wang ; Gan Ma ; Yunhui Liu
