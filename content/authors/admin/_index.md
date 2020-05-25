@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiahao Wu (Mark)
+title: Jiahao Wu
 
 # Username (this should match the folder name)
 authors:
