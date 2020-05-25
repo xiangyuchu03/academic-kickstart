@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -26,9 +26,9 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
+    category = "Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) For Sinus Surgery: Design, Control and Evaluation"
+    publication_type = "IEEE Transactions on Biomedical Engineering (TBME)"
+    author = "Fangxun Zhong, Peng Li, Jiadong Shi, Zerui Wang, Jiahao Wu, Jason YK Chan, Natalie Leung, Iris Leung, Michael CF Tong, Yun-Hui Liu"
     exclude_featured = false
   
 [design]
