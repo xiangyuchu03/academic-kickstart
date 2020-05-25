@@ -15,19 +15,19 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "cogs"
   icon_pack = "fab"
   name = "Mechatronics Design"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
+  icon = "robot"
+  icon_pack = "fab"
   name = "Robotics"
   description = "50%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "palette"
   icon_pack = "fas"
   name = "Painting"
   description = "30%"
