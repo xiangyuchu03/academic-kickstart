@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jiahao Wu
 
 # Username (this should match the folder name)
 authors:
@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a third-year Ph.D. student supervised by Prof. Yun-hui Liu in the robotics institute (CURI), The chinese University of Hong Kong. Now, I am working with Prof. Iulian Iordachita and Prof. Russell H. Taylor as a visiting student at Johns Hopkins University in the Laboratory for Computational Sensing & Robotics. Prior to my Ph.D studies, I received B.E. degree at Chongqing University, China.
+I (Jiahao Wu) am currently a third-year Ph.D. student supervised by Prof. Yun-hui Liu in the robotics institute (CURI), The chinese University of Hong Kong. Now, I am working with Prof. Iulian Iordachita and Prof. Russell H. Taylor as a visiting student at Johns Hopkins University in the Laboratory for Computational Sensing & Robotics. Prior to my Ph.D studies, I received B.E. degree at Chongqing University, China.
 
 My research interests are the developments of robotic surgical components and systems including variable stiffness joint, robot-assisted uterus manipulator, steady hand eye robot and nasal robot, as well as the corresponding force and vision-based control algorithms, with emphasis on both scientific and engineering aspects.
