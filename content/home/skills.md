@@ -16,13 +16,13 @@ subtitle = ""
 
 [[feature]]
   icon = "cogs"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Mechatronics Design"
   description = "90%"
   
 [[feature]]
   icon = "robot"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Robotics"
   description = "50%"  
   
