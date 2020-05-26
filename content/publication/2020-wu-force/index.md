@@ -1,13 +1,13 @@
 ---
-title: "Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) For Sinus Surgery: Design, Control and Evaluation"
-date: 2019-09-05
-publishDate: 2019-09-05T15:35:42.116621Z
-authors: ["F. Zhong", "P. Li", "J. Shi", "Z. Wang", "J. Wu", "J. YK. Chan", "N. Leung", "I. Leung", "M. CF. Tong", "Y. Liu"]
-publication_types: ["2"]
-abstract: ""
+title: "Force-based Safe Vein Cannulation in Robot-assisted Retinal Surgery: A Preliminary Study"
+date: 2020-01-22
+publishDate: 2020-01-22T15:35:42.116621Z
+authors: ["**Jiahao Wu**", " Changyan He", " Mingchuan Zhou", " Ali Ebrahimi", " Muller Urias", " Niravkumar Patel", " Yunhui Liu", " Peter Gehlbach", " Ioan I Iordachita"]
+publication_types: ["1"]
+abstract: "*2020 International Symposium on Medical Robotics (ISMR)*"
 featured: false
-publication: "*2019 IEEE Transactions on Biomedical Engineering (TBME)*"
-tags: []
+publication: "*2020 International Symposium on Medical Robotics (ISMR)*"
+tags: ["*2020 International Symposium on Medical Robotics (ISMR)*"]
 url_pdf: ""
 doi: ""
 ---
