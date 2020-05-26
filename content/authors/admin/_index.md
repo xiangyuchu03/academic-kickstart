@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Robotics
-    institution: The Chinese University of University
+    institution: The Chinese University of Hong Kong
     year: 2017-Current
   - course: Visiting PhD student 
     institution: Johns Hopkins University
