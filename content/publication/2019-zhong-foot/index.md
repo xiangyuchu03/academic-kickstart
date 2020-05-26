@@ -4,7 +4,7 @@ date: 2019-09-05
 publishDate: 2019-09-05T15:35:42.116621Z
 authors: ["Fangxun Zhong", " Peng Li", " Jiadong Shi", " Zerui Wang", " **Jiahao Wu**", " Jason YK Chan", " Natalie Leung", " Iris Leung", " Michael CF Tong", " Yunhui Liu"]
 publication_types: ["2"]
-abstract: "*2019 IEEE Transactions on Biomedical Engineering (TBME)*"
+abstract: "*2019 IEEE Transactions on Biomedical Engineering (TBME)*, accepted"
 featured: false
 publication: "*2019 IEEE Transactions on Biomedical Engineering (TBME)*"
 tags: ["*2019 IEEE Transactions on Biomedical Engineering (TBME)*"]
