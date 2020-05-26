@@ -4,7 +4,7 @@ date: 2020-05-15
 publishDate: 2020-05-15T15:35:42.116621Z
 authors: ["**Jiahao Wu**", " Zerui wang", " Wei Chen", " Yaqing Wang", " Yunhui Liu"]
 publication_types: ["2"]
-abstract: "*2020 IEEE Transactions on Mechatronics (TMECH)*"
+abstract: "*2020 IEEE Transactions on Mechatronics (TMECH)*, accepted"
 featured: false
 publication: "*2020 IEEE Transactions on Mechatronics (TMECH)*"
 tags: ["*2020 IEEE Transactions on Mechatronics (TMECH)*"]
