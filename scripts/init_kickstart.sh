@@ -35,6 +35,9 @@ rsync -av ../themes/academic/exampleSite/content/talk/_index.md ../content/talk/
 # Deactivate Hero
 sed -i '' -e 's/active = true/active = false/' ../content/home/hero.md
 
+# visiting map
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5p8mi02rowh&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
+
 # Manual Steps:
 # - content/home/project.md: Re-comment out project filters
 # - content/home/demo.md: Re-modify content & set gradient background instead of image
