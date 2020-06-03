@@ -24,3 +24,7 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[marketing]
+  google_analytics = ""
+  google_tag_manager = ""
