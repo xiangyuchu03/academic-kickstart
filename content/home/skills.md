@@ -18,7 +18,7 @@ subtitle = ""
   icon = "cogs"
   icon_pack = "fas"
   name = "Mechatronics Design"
-  description = "90%"
+  description = "60%"
   
 [[feature]]
   icon = "robot"
