@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Xiangyu CHU, PhD Candidate
 
 # Organizations/Affiliations
 organizations:
