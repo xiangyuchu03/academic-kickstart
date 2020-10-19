@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiahao Wu
+title: Xiangyu Chu
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Jiahao Wu, PhD Candidate
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
