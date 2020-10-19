@@ -14,16 +14,16 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Robotics Institute, The Chinese University of Hong Kong
-  url: "http://ri.cuhk.edu.hk/"
+- name: Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robot-assisted surgery, compliant joint and force & vision-based control.
+bio: My research interests include underactuated control, bio-inspired robotics and locomotion.
 
 interests:
-- Robot-assisted surgery
-- Compliant Joint
-- Force and Vision-based Control
+- Underactuated Control
+- Bio-Inspired Robotics
+- Locomotion
 
 education:
   courses:
@@ -31,11 +31,14 @@ education:
     institution: The Chinese University of Hong Kong
     year: 2017-Current
   - course: Visiting PhD student 
-    institution: Johns Hopkins University
-    year: 2019-2020
-  - course: BSc in Mechanica Design, Manufacturing & Automation
-    institution: Chongqing University
-    year: 2013-2017
+    institution: Carnegie Mellon University
+    year: 2020
+  - course: M.E. in Control Science & Engineering
+    institution: Harbin Institute of Technology
+    year: 2015-2017
+  - course: B.E. in Automation
+    institution: Harbin Institute of Technology
+    year: 2011-2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,13 +47,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "jhwu@mae.cuhk.edu.hk".
+  link: '#contact'  # For a direct email link, use "xychu@mae.cuhk.edu.hk".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=gmNreYIAAAAJ&hl=zh-CN
+  link: https://scholar.google.com/citations?user=1v8bLDUAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/markwu9494
+  link: https://github.com/xiangyuchu03
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jhwu@mae.cuhk.edu.hk"
+email: "xychu@mae.cuhk.edu.hk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -67,7 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a final-year Ph.D. student supervised by [Prof. Kwok Wai Samuel Au](https://www4.mae.cuhk.edu.hk/peoples/au-kwok-wai-samuel/) in the robotics institute (CURI), The Chinese University of Hong Kong. 
-Now, I am working with [Prof. Iulian Iordachita](https://amiro.lcsr.jhu.edu/IulianIordachita/) and [Prof. Russell H. Taylor](https://www.cs.jhu.edu/~rht/) as a visiting student at Johns Hopkins University in the Laboratory for Computational Sensing + Robotics. Prior to my Ph.D studies, I received B.E. degree at Chongqing University, China.
+I am currently a final-year Ph.D. student supervised by [Prof. Kwok Wai Samuel Au](https://www4.mae.cuhk.edu.hk/peoples/au-kwok-wai-samuel/) in the robotics institute (CURI), The Chinese University of Hong Kong. Prior to my PhD study, I received B.E. and M.E. degrees and at Harbin Institute of Technology, China.
 
-My research interests are the developments of robotic surgical components and systems including variable stiffness joint, robot-assisted uterus manipulator, steady hand eye robot and nasal robot, as well as the corresponding force and vision-based control algorithms, with emphasis on both scientific and engineering aspects.
+My research interests include underactuated control, bio-inspired robotics and locomotion.
