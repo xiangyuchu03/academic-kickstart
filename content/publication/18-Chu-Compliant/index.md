@@ -11,6 +11,6 @@ publication: "*IEEE Robotics and Automation Letters (RA-L)*"
 tags: ["*IEEE Robotics and Automation Letters (RA-L)*"]
 url_pdf: ""
 doi: "10.1109/LRA.2018.2863373"
-video:"video for the retractor_V2.mp4"
+video: "video for the retractor_V2.mp4"
 ---
 
