@@ -7,6 +7,6 @@ featured: false
 publication: "*2021 IEEE Internation Conference on Robotics and Automation (ICRA)*"
 tags: ["*2021 IEEE Internation Conference on Robotics and Automation (ICRA)*"]
 url_pdf: ""
-doi: "10.23919/ACC45564.2020.9147798"
+doi: ""
 ---
 
