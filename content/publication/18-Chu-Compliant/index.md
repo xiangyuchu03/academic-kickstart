@@ -9,7 +9,7 @@ leaking caused by the coupled multitendon driven mechanism. Initial prototypes w
 featured: false
 publication: "*IEEE Robotics and Automation Letters (RA-L)*"
 tags: ["*IEEE Robotics and Automation Letters (RA-L)*"]
-url_pdf: ""
+url_pdf: "https://ieeexplore.ieee.org/document/8425721"
 doi: "10.1109/LRA.2018.2863373"
 video: "video for the retractor_V2.mp4"
 ---
