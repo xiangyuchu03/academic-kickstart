@@ -8,7 +8,7 @@ abstract: "Organ retraction is a common and important task in minimally invasive
 leaking caused by the coupled multitendon driven mechanism. Initial prototypes were built and integrated with the state-of-the-art surgical robotic platform, da Vinci Research Kit for basic functional evaluation. Preliminary simulation and experimental results demonstrate the capability of the proposed device for organ retraction. It is our hope that this novel instrument will become a new benchmark for organ retraction in terms of safety, precision, and dexterity."
 featured: false
 publication: "*IEEE Robotics and Automation Letters (RA-L)*"
-tags: ["*IEEE Robotics and Automation Letters (RA-L)*"]
+tags: ["*Medical Robots*"]
 url_pdf: "https://ieeexplore.ieee.org/document/8425721"
 doi: "10.1109/LRA.2018.2863373"
 video: "video for the retractor_V2.mp4"
