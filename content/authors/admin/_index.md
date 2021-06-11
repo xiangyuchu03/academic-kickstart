@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include underactuated control, bio-inspired robotics and locomotion.
+bio: My research interests include underactuated control, bio-inspired robots, locomotion, and medical robots.
 
 interests:
 - Underactuated Control
 - Bio-Inspired Robotics
 - Locomotion
+- Medical Robots
 
 education:
   courses:
@@ -72,4 +73,5 @@ user_groups:
 
 I am currently a fourth-year Ph.D. student supervised by [Prof. Kwok Wai Samuel Au](https://www4.mae.cuhk.edu.hk/peoples/au-kwok-wai-samuel/) in the [BTM](https://biomedirobotics.com/) group, Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong. Prior to my PhD study, I received B.E. and M.E. degrees at Harbin Institute of Technology, China. In the third year, I was visiting the group of [Prof. Hartmut Geyer](https://www.cs.cmu.edu/~hgeyer/) at Carnegie Mellon University.
 
-My research interests include underactuated control, bio-inspired robotics, and locomotion.
+My research interests include underactuated control, bio-inspired robotics, locomotion, and medical robots.
+
