@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently a fourth-year Ph.D. student supervised by [Prof. Kwok Wai Samuel Au](https://www4.mae.cuhk.edu.hk/peoples/au-kwok-wai-samuel/) in the [BTM](https://biomedirobotics.com/) group, Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong. Prior to my PhD study, I received B.E. and M.E. degrees at Harbin Institute of Technology, China. In the third year, I was visiting the group of [Prof. Hartmut Geyer](https://www.cs.cmu.edu/~hgeyer/) at Carnegie Mellon University.
+I am currently a postdoctoral fellow in the [BTM](https://biomedirobotics.com/) group directed by [Prof. Kwok Wai Samuel Au](https://www4.mae.cuhk.edu.hk/peoples/au-kwok-wai-samuel/), Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong. Prior to my PhD study, I received B.E. and M.E. degrees at Harbin Institute of Technology, China. In the third year, I was visiting the group of [Prof. Hartmut Geyer](https://www.cs.cmu.edu/~hgeyer/) at Carnegie Mellon University.
 
 My research interests include underactuated control, bio-inspired robotics, locomotion, and medical robots.
 
