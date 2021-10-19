@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Xiangyu Chu, PhD Candidate
+role: Xiangyu Chu, Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Robotics
     institution: The Chinese University of Hong Kong
-    year: 2017-Current
+    year: 2017-2021
   - course: Visiting PhD student 
     institution: Carnegie Mellon University
     year: 2020
