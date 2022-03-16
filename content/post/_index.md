@@ -11,7 +11,6 @@ title = "News"
 subtitle = ""
 
 [content]
-xxxxxx
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
   
