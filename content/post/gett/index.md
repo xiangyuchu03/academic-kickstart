@@ -41,7 +41,7 @@ categories:
 # - 教程
 ---
 
-## Abstract
+## Overview
 Null space is a commonly-used tool in the control of redundant robotic systems,
 however, its existence and functionality in Underactuated Robotic Systems
 (URSs) have rarely been discussed and were overlooked for a long time. In this
