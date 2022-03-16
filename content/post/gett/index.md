@@ -97,6 +97,7 @@ observed in this kind of DURSs is fairly different from that appears in KURSs.
 Projecting its original dynamics into the null space can facilitate the constrained
 Operational Space Control (OSC) using QP in real time, without involving any
 motion planning methods.
+
 Extensive simulation and experimental results have demonstrated the effectiveness
 and generality of the proposed methods. Given the success of the initial study, we hope that our explorations provide a starting point to the field to further
 study the neglected null space, ultimately inspiring more effective real-time
