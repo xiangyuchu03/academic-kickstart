@@ -1,6 +1,6 @@
 ---
 title: I defended my PhD dissertation on July 12, 2021. 
-subtitle: "Exploiting Null Space for Real-Time and Effective Control of Underactuated Robotic Systems"
+subtitle: "Exploiting Null Space for Real-Time and Effective Control of Underactuated Robotic Systems (Committee: Yunhui Liu, Kwok Wai Samuel Au, Tat Ming Lau, and Marco Hutter)"
 
 # Summary for listings and search engines
 summary: "Exploiting Null Space for Real-Time and Effective Control of Underactuated Robotic Systems"
