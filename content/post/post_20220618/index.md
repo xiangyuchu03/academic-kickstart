@@ -4,7 +4,7 @@ title: One paper is accepted by IEEE TMech.
 subtitle: "Feedback Control for Collision-Free  Nonholonomic Vehicle Navigation on SE(2) with Null Space Circumvention"
 
 # Summary for listings and search engines
-summary: "Feedback Control for Collision-Free  Nonholonomic Vehicle Navigation on SE(2) with Null Space Circumvention"
+summary: "Feedback Control for Collision-Free  Nonholonomic Vehicle Navigation on SE(2) with Null Space Circumvention by Xiangyu Chu, Raymond Ng, Hesheng Wang, and Kwok Wai Samuel Au (10.1109/TMECH.2022.3186174)"
 
 # Link this post with a project
 projects: []
