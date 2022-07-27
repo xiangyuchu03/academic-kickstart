@@ -4,7 +4,7 @@ title: One paper is accepted by IEEE TCST.
 subtitle: "Opposite Treatment on Null Space: A Unified Control Framework for a Class of Underactuated Robotic Systems with Null Space Avoidance"
 
 # Summary for listings and search engines
-summary: "Opposite Treatment on Null Space: A Unified Control Framework for a Class of Underactuated Robotic Systems with Null Space Avoidance"
+summary: "Opposite Treatment on Null Space: A Unified Control Framework for a Class of Underactuated Robotic Systems with Null Space Avoidance by Xiangyu Chu, Chun Ho Lo, Tommaso Proietti, Conor J Walsh, and Kwok Wai Samuel Au (10.1109/TCST.2022.3171914)"
 
 # Link this post with a project
 projects: []
