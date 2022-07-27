@@ -45,7 +45,7 @@ categories:
 ## Overview
 In this paper, we present a novel feedback controller for collision-free navigation of a class of nonholonomic vehicles based on navigation functions in convex environment. This controller utilizes a high-level principle - null space circumvention in nonholonomic navigation control, allowing us to involve different vehicle kinematics and navigation functions with respect to the task and environment. For a single vehicle, we have proved that the controller can steer it to the target on $\text{SE(2)}$ while avoiding collision from almost all initial states. The controller can also close the gap between holonomic vehicle navigation and nonholonomic vehicle navigation, allowing the navigation functions created for holonomic vehicles to be used for nonholonomic vehicles. Furthermore, we extend the controller to multi-vehicle formation control. Within this task, our controller shows generality without much modification except for updating the gradient of the chosen navigation functions. Simulation and experimental results demonstrate that the proposed controllers can achieve collision-free navigation for a single vehicle and multiple vehicles.
 
-This is an application paper of using Null Space Avoidance (NSA) theory.
+This is an application paper of using Null Space Avoidance (NSA) theory. Next Application would be integrating NSA into numerical methods, such as QP and MPC.
 
 
 
