@@ -1,6 +1,6 @@
 
 ---
-title: One Workshop Proposal is accepted by IEEE ICRA2023. 
+title: One Workshop Proposal is accepted by ICRA2023. 
 subtitle: "Agile Movements: Animal Behavior, Biomechanics, and Robot Devices"
 
 # Summary for listings and search engines
