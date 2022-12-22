@@ -11,6 +11,6 @@ publication: "*IEEE Robotics and Automation Letters (RA-L)*"
 tags: ["*Medical Robots*"]
 url_pdf: ""
 doi: "https://ieeexplore.ieee.org/document/8425721"
-video: "video for the retractor_V2.mp4"
+video: "/video for the retractor_V2.mp4"
 ---
 
