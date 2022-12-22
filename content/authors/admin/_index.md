@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include underactuated control, bio-inspired robots, locomotion, and medical robots.
 
 interests:
-- Underactuated Control
+- Underactuated Motion Control
 - Bio-Inspired Robotics
-- Locomotion
+- Loco-manipulation
 - Medical Robots
 
 education:
