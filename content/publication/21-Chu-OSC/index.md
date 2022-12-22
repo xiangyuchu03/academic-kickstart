@@ -9,5 +9,5 @@ featured: false
 publication: "*2021 IEEE Internation Conference on Robotics and Automation (ICRA)*"
 tags: ["*Underactuated Manipulators*"]
 url_pdf: ""
-doi: ""
+doi: "https://ieeexplore.ieee.org/abstract/document/9561278"
 ---
