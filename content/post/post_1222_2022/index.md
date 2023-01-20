@@ -1,6 +1,6 @@
 
 ---
-title: One Workshop Proposal is accepted by ICRA2023. 
+title: We will organize a workshop in ICRA2023. 
 subtitle: "Agile Movements: Animal Behavior, Biomechanics, and Robot Devices"
 
 # Summary for listings and search engines
